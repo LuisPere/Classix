@@ -1,0 +1,76 @@
+[
+{
+ "productName": "Dolce&Gabbana Zip Hoodie",
+ "price": "355 USD",
+ "img": "img/dg1.webp",
+ "description": "DOLCE&GABBANA HOODIE IN ALLOVER LOGO GRAFFITI PRINT"
+},
+{
+    "productName": "Versace T-Shirt",
+    "price": "525 USD",
+    "img": "img/ver3.webp",
+     "description": "COTTON LA GRECA PATTERN SLIM FIT STYLE"
+   
+},
+{
+    "productName": "Saffiano leather shoulder bag",
+    "price": "3,750 USD",
+    "img": "img/pra1.webp",
+    "description": "SLEEK LINES AND CONTEMPORARY ATTITUDE OUT OF SAFFIANO LEATHER"
+   },
+   {
+       "productName": "Brushed leather stovepipe boots",
+       "price": "1,925 USD",
+       "img": "img/pra2.webp",
+       "description": "A PRECIOUS AND ICONIC MATERIAL OF THE BRAND"
+   },
+   {
+    "productName": "Celine Fleece Hoodie",
+    "price": "1,150 USD",
+    "img": "img/cel1.webp",
+    "description": "LOOSE ZIPPED HOODIE WITH CELINE PRINT IN COTTON FLEECE"
+   },
+   {
+       "productName": "Versace Robe",
+       "price": "595 USD",
+       "img": "img/ver1.webp",
+       "description": "THIS TONAL TERRY COTTON BATHROM ACCENTED BY SIGNATURE BAROCCO"
+   },
+   {
+    "productName": "Versace Robe",
+    "price": "1150 USD",
+    "img": "img/amir1.webp",
+    "description": "HEAVYWEIGHT BRUSHED TERRY HOODIE"
+},
+{
+"productName": "Dior Polo",
+"price": " 690 USD",
+"img": "img/m1.png",
+"description": "BLACK POLO SHIRT IS ADORNED WITH AN EMBROIDERED HALLMARK BEE ON  CHEST"
+},
+{
+"productName": "Yves Saint Laurent T-Shirt",
+"price": "420 USD",
+"img": "img/M2.jpeg",
+"description": "CREWNECK SHORT-SLEEVE IN JERSEY ADORNED WITH AN ARTWORK BY NICK TURNER"
+},
+{
+    "productName": "Distressed-Givenchy Hoodie",
+    "price": "1150 USD",
+    "img": "img/m3.jpeg",
+    "description": "DEFINED BY THE ALL-OVER DISTRESSED EFFECT THAT CREATES A MODERN LOOK"
+    },
+    {
+        "productName": "Versace Undershirt",
+        "price": "100 USD",
+        "img": "img/m4.webp",
+        "description": "SOFT COTTON UNDERSHIRT EMBELLISHED WITH SUBTLE MEDUSA"
+        },
+        {
+            "productName": "Oversize Monogram Kenzo Shirt",
+            "price": "100 USD",
+            "img": "img/m6.jpeg",
+            "description": "THIS OVERSIZED MONOGRAM T-SHIRT IS DISTINGUISHED BY IT'S ICONIC PRINT"
+            }
+]
+
